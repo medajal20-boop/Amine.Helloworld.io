@@ -1,7 +1,7 @@
 # Hello World 
 
-This is my first GitHub repository as part of my internship learning journey.
-
+My name is amine 
+hello lets discover the world !
 ## About Me
 - **Name:** Mohamed Amine Jallouli
 - **Student:** Computer Science major
