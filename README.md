@@ -1,9 +1,11 @@
-# Hello World Project
+# Hello World 
 
 This is my first GitHub repository as part of my internship learning journey.
 
-My name is Amine
-I'm student in Computer Science major
-I'm learning Git, GitHub, and software development workflows
-My goal is To master version control and collaborative coding practices
- 
+## About Me
+- **Name:** Mohamed Amine Jallouli
+- **Student:** Computer Science major
+- **Learning:** Git, GitHub, and software development workflows
+- **Goal:** To master version control and collaborative coding practices
+
+
